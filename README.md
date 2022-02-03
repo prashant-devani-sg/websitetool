@@ -1,3 +1,3 @@
 # websitetools-repo
 
-[mainPage] (/pfwebtooltest/htmlfile.html/)
+[main page](https://prashant-devani.github.io/pfwebtooltest/htmlfile.html)
